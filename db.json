@@ -1,7 +1,12 @@
 {
   "drama": [
-    {"id": 1, "name": "La caída", "sinopsis": "La película trata de alguien que se cae", "megusta": "750", "estrellas": "4 estrellas", "duracion": "1h40", "imagen": "https://upload.wikimedia.org/wikipedia/en/4/48/Balto_movie_poster.jpg"},
-    {"id": 2, "name": "Balto", "sinopsis": "La película trata de un perro lobo", "megusta": "1500", "estrellas": "5 estrellas", "duracion": "1h30", "imagen": "https://upload.wikimedia.org/wikipedia/en/4/48/Balto_movie_poster.jpg"}
+    {"id": 1, "name": "Balto", "sinopsis": "Una epidemia mortal de difteria azota la ciudad de Nome, Alaska. Con el medicamento que salva vidas ubicado a cientos de kms de distancia, los residentes envían un equipo de perros de trineo en busca de él", "megusta": "1550", "estrellas": "4.5 estrellas", "duracion": "1h20", "imagen": "https://upload.wikimedia.org/wikipedia/en/4/48/Balto_movie_poster.jpg"},
+    {"id": 2, "name": "Sin límites", "sinopsis": "Ante el desempleo y el rechazo de su novia, el escritor Eddie Morra está seguro de que no tiene futuro. Todo eso cambia cuando un viejo amigo le da una droga que produce una mayor agudeza mental", "megusta": "1800", "estrellas": "3 estrellas", "duracion": "1h50", "imagen": "https://upload.wikimedia.org/wikipedia/en/1/17/Limitless_Poster.jpg"},
+    {"id": 3, "name": "It", "sinopsis": "Siete jóvenes marginados en Derry, Maine, están a punto de enfrentarse a su peor pesadilla: un antiguo mal que cambia de forma y emerge de las alcantarillas cada 27 años para aprovecharse de los niños del pueblo", "megusta": "900", "estrellas": "3.6 estrellas", "duracion": "1h30", "imagen": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg"},
+    {"id": 4, "name": "Top Gun", "sinopsis": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Maverick está donde pertenece, como un valiente piloto de pruebas y esquivando el avance de rango que lo dejaría en tierra", "megusta": "260", "estrellas": "4 estrellas", "duracion": "2h10", "imagen": "https://upload.wikimedia.org/wikipedia/en/4/46/Top_Gun_Movie.jpg"},
+    {"id": 5, "name": "Django", "sinopsis": "Dos años antes de la Guerra Civil, Django , un esclavo, se encuentra acompañando a un cazarrecompensas alemán poco ortodoxo llamado Dr. King Schultz en una misión para capturar a los viciosos hermanos Brittle", "megusta": "2090", "estrellas": "5 estrellas", "duracion": "2h40", "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg"},
+    {"id": 6, "name": "Pulp Fiction", "sinopsis": "Vincent Vega (John Travolta) y Jules Winnfield (Samuel L. Jackson) son asesinos a sueldo con una inclinación por las discusiones filosóficas", "megusta": "750", "estrellas": "4.6 estrellas", "duracion": "1h50", "imagen": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"}
     ]
 }
  
+https://upload.wikimedia.org/wikipedia/en/1/17/Limitless_Poster.jpg
