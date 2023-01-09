@@ -1,19 +1,7 @@
 {
-  {
-    "id": 1,
-    "name": "La caída",
-    "sinopsis": "La película trata de alguien que se cae",
-    "megusta": "750",
-    "estrellas": "4 estrellas",
-    "duracion": "1h40",
-  },
-{
-    "id": 2,
-    "name": "Balto",
-    "sinopsis": "La película trata de un perro lobo",
-    "megusta": "1500",
-    "estrellas": "5 estrellas",
-    "duracion": "1h30",
-  },
+  "drama": [
+    {"id": 1, "name": "La caída", "sinopsis": "La película trata de alguien que se cae", "megusta": "750", "estrellas": "4 estrellas", "duracion": "1h40"},
+    {"id": 2, "name": "Balto", "sinopsis": "La película trata de un perro lobo", "megusta": "1500", "estrellas": "5 estrellas", "duracion": "1h30"}
+    ]
 }
  
